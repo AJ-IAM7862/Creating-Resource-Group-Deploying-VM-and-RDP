@@ -8,28 +8,26 @@ Desktop Protocol to connect to our Azure virtual machine.<br />
 - Windows 11
 <h2>Resource Group</h2>
 <p>
-<img width="1242" height="347" alt="image"
-src="https://github.com/user-attachments/assets/fb345e13-0206-43a1-8780-dc62f226682a" />
+<img width="959" height="466" alt="VM Resource Groups" src="https://github.com/user-attachments/assets/ffde9191-c19c-42f8-adc5-4f389acff322" />
 </p>
 <p>
-Created RG titled RG-LabEnv.
+Created RG titled MD-LabEnv.
 </p>
 <br />
 <h2>Virtual Machine</h2>
 <p>
-<img width="1532" height="303" alt="image"
-src="https://github.com/user-attachments/assets/2447cf7c-8ab7-47f4-bb4b-37400fd0df79" />
+<img width="959" height="476" alt="VM-MD" src="https://github.com/user-attachments/assets/7ef3e290-3838-4303-9289-b0222efc62c8" />
 </p>
 <p>
-Created virtual machine titled VM-TechTalk.
+Created virtual machine titled VM-MD.
 </p>
 <br />
 <h2>Deployment</h2>
 <p>
-<img width="501" height="341" alt="image"
-src="https://github.com/user-attachments/assets/03ff7509-188c-4ff2-9204-ee10b576ee01" />
+<img width="956" height="473" alt="Remote Desktop Connection" src="https://github.com/user-attachments/assets/d15c8876-7daa-42ac-a425-8bd0d33691e4" />
+
 </p>
 <p>
-Able to RDP into VM through IP address 20.119.81.197.
+Able to RDP into VM through IP address 20.124.84.111.
 </p>
 <br />
